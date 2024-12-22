@@ -1,0 +1,47 @@
+{
+  "tasks": [
+    {
+      "title": "tomar café da manhã",
+      "completed": false,
+      "createdAt": "",
+      "updatedAt": "",
+      "userId": 1,
+      "id": "19eb"
+    },
+    {
+      "title": "tomar banho",
+      "completed": false,
+      "createdAt": "",
+      "updatedAt": "",
+      "userId": 1,
+      "id": "be51"
+    },
+    {
+      "title": "ir ao trabalho",
+      "completed": false,
+      "createdAt": "",
+      "updatedAt": "",
+      "userId": 2,
+      "id": "d428"
+    },
+    {
+      "id": "618c",
+      "userId": 1,
+      "title": "mais uma tarefa"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "daniel@server.com.br"
+    },
+    {
+      "id": "2",
+      "email": "carlos@server.com.br"
+    },
+    {
+      "id": "3",
+      "email": "pedro@server.com.br"
+    }
+  ]
+}
